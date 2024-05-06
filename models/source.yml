@@ -7,3 +7,4 @@ sources:
     tables:
       - name: every_ball
       - name: players
+      - name: ipl_match
