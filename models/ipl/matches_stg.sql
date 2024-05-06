@@ -2,7 +2,7 @@
 
 with source_data as (
 
-    select 1 
+   select * from {{ source('Google Sheets', 'google_ipl_data.ipl_match') }}
 
 )
 
