@@ -1,0 +1,6 @@
+version: 2
+
+sources:
+  - name: Google Sheets
+    tables:
+      - name: google_ipl_data.ipl_match
