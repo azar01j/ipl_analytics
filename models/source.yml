@@ -1,6 +1,0 @@
-version: 2
-
-sources:
-  - name: google_ipl_data
-    tables:
-      - name: google_ipl_data.ipl_match
