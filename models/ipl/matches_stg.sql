@@ -2,7 +2,7 @@
 
 with source_data as (
 
-    select * from {{ source('google_ipl_data', 'ipl_match') }}
+    select 1 
 
 )
 
