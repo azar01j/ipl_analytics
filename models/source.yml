@@ -2,7 +2,6 @@ version: 2
 
 sources:
   - name: ipl_src
-    database: airbnb
     schema: GOOGLE_IPL_DATA
     tables:
       - name: every_ball
